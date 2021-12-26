@@ -27,10 +27,10 @@
 </div>
 <footer class="fixed left-0 bottom-0 w-screen  flex flex-reverse-row items-center pb-8 text-center justify-center">
 
-    <div class=" text-slate-800 text-base ">
+    <div class=" text-slate-800 text-base bg-white bg-opacity-30 border-4 border-white border-opacity-20  rounded-full px-2">
         <p>
             <a href="https://www.yogpanjarale.com" class=" text-slate-800">
-                Made with ❤️&🕐 by Yog Panjarale
+                Made with 🕐&❤️ by Yog Panjarale
             </a>
         </p>
     </div>

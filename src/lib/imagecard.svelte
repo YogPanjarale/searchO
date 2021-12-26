@@ -1,7 +1,7 @@
 <script>
     export let photo;
-    //TODO: downdload button
-    //TODO: Copy code button
+    //TODO: download button
+    //TODO: Copy code button dow
     //TODO: link to source button
 </script>
 

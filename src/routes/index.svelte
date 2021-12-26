@@ -21,7 +21,17 @@
         <input type="text" class="border-2 rounded-lg p-2 focus:outline-none focus:border-blue-400" bind:value={searchTerm} placeholder="example-  Dogs, Cats" />
         <p class="m-1 mt-0 text-lg text-gray-700 font-medium">Powered by <span class="text-blue-600">Unsplash</span> </p>
     </form>
-    <div class="md:w-2/4">
+    <div class="md:w-2/3 ">
         <Photolist list={results}/>
     </div>
 </div>
+<footer class="fixed left-0 bottom-0 w-screen  flex flex-reverse-row items-center pb-8 text-center justify-center">
+
+    <div class=" text-slate-800 text-base ">
+        <p>
+            <a href="https://www.yogpanjarale.com" class=" text-slate-800">
+                Made with ❤️&🕐 by Yog Panjarale
+            </a>
+        </p>
+    </div>
+</footer>

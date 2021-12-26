@@ -3,5 +3,5 @@
 
 </script>
 
-<img  class= "h-72" src ={photo.urls.regular} alt = {photo.descrption} />
+<img  class= "h-72 shadow-2xl" src ={photo.urls.regular} alt = {photo.descrption} />
 <style></style>
